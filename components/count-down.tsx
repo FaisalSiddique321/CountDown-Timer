@@ -87,7 +87,7 @@ export default function Countdown (){
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-8 w-full max-w-md">
             {/* Title of the countdown timer */}
             <h1 className="text-2xl font-bold mb-4 text-gray-800 dark:text-gray-200 text-center">
-              "COUNTDOWN TIMER"
+              &quot;COUNTDOWN TIMER&quot;
             </h1>
             {/* Input and set button container */}
             <div className="flex items-center mb-6">
